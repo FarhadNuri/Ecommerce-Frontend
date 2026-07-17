@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-fraunces);
+
+  --color-background: var(--bg-color);
+  --color-foreground: var(--text-color);
+  --color-text-primary: var(--text-color);
+  
+  --color-accent: #1B4D3E;
+  --color-success: #2E7D32;
+  --color-muted: #9CA3AF;
+  --color-error: #B3261E;
+  --color-border-divider: #E5E5E5;
+  --color-text-secondary: #6B6B6B;
+
+  --radius-card: 12px;
+  --radius-button: 8px;
+}
+
+:root {
+  --bg-color: #FFFFFF;
+  --text-color: #111111;
+}
+
+.dark {
+  --bg-color: #0F0F10;
+  --text-color: #F9F9F9;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  @apply font-sans antialiased;
+}
+
+/* Whisper soft shadow */
+.shadow-soft {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
