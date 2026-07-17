@@ -140,9 +140,6 @@ export default function CheckoutClient() {
             <div className="mb-10">
               <div className="flex justify-between items-end mb-4">
                 <h2 className="font-serif text-[20px] text-text-primary">Contact Information</h2>
-                <p className="text-[12px] text-text-secondary">
-                  Already have an account? <Link href="#" className="text-text-primary underline hover:text-text-secondary decoration-1 underline-offset-2">Log in</Link>
-                </p>
               </div>
               <input
                 type="email"
@@ -162,7 +159,7 @@ export default function CheckoutClient() {
 
               <div className="relative mb-3">
                 <select className="w-full border border-[#D1D1D1] rounded-[4px] px-3 py-3 text-[13px] appearance-none bg-transparent focus:outline-none focus:border-text-primary transition-colors text-text-primary">
-                  <option value="US">United States</option>
+                  <option value="BD">Bangladesh</option>
                 </select>
                 <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-text-secondary">
                   <ChevronDown size={14} strokeWidth={1.5} />
@@ -219,11 +216,12 @@ export default function CheckoutClient() {
                     onChange={e => setFormData({ ...formData, state: e.target.value })}
                     className="w-full border border-[#D1D1D1] rounded-[4px] px-3 py-3 text-[13px] appearance-none bg-transparent focus:outline-none focus:border-text-primary transition-colors text-text-primary"
                   >
-                    <option value="" disabled>State</option>
-                    <option value="NY">New York</option>
-                    <option value="CA">California</option>
-                    <option value="TX">Texas</option>
-                    <option value="FL">Florida</option>
+                    <option value="" disabled>State/Division</option>
+                    <option value="DH">Dhaka</option>
+                    <option value="CH">Chattogram</option>
+                    <option value="RA">Rajshahi</option>
+                    <option value="RN">Rangpur</option>
+                    <option value="SY">Sylhet</option>
                   </select>
                   <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-text-secondary">
                     <ChevronDown size={14} strokeWidth={1.5} />

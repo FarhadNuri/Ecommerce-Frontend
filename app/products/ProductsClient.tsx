@@ -228,17 +228,13 @@ export default function ProductsClient() {
                   />
                   <button
                     onClick={clearFilters}
-                    className="text-xs text-text-secondary hover:text-text-primary underline decoration-1 underline-offset-[3px]"
+                    className="text-xs text-text-secondary hover:text-text-primary underline decoration-1 underline-offset-[3px] cursor-pointer"
                   >
                     Clear filters
                   </button>
                 </aside>
                 <main className="flex-1">
-                  <div className="hidden md:flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-10">
-                    <SearchBar
-                      query={query}
-                      onChange={(q) => updateFilters('q', q ? q : null)}
-                    />
+                  <div className="hidden md:flex flex-col sm:flex-row justify-end items-start sm:items-center gap-4 mb-10">
                     <div className="flex items-center gap-4 text-[13px] font-medium text-text-secondary w-full sm:w-auto shrink-0 justify-end">
                       <span className="tracking-wide">Showing {filteredProducts.length} products</span>
                       <SortDropdown
