@@ -278,7 +278,7 @@ export default function ProductsClient() {
                         onClick={clearFilters}
                         className="mt-8 inline-block bg-accent text-white px-8 py-3 rounded-[4px] text-[11px] font-bold tracking-widest uppercase hover:bg-accent/90 transition-colors shadow-soft"
                       >
-                        Clear All Filters
+                        Clear All Selected Filters
                       </button>
                     </div>
                   )}
