@@ -5,6 +5,7 @@ import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import { CartProvider } from "@/context/CartContext";
 import LayoutWrapper from "@/components/layout/LayoutWrapper";
+import { Suspense } from "react";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -30,7 +31,14 @@ export default function RootLayout({
     <html lang="en" className={`${inter.variable} ${fraunces.variable} h-full`} suppressHydrationWarning>
       <body className="min-h-full flex flex-col bg-[#FAF9F8]" suppressHydrationWarning>
         <CartProvider>
-          <LayoutWrapper navbar={<Navbar />} footer={<Footer />}>
+          <LayoutWrapper 
+            navbar={
+              <Suspense fallback={<div className="h-16 bg-white border-b border-[#E5E5E5]" />}>
+                <Navbar />
+              </Suspense>
+            } 
+            footer={<Footer />}
+          >
             {children}
           </LayoutWrapper>
         </CartProvider>
