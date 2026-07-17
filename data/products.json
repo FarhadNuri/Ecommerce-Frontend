@@ -1,0 +1,764 @@
+[
+  {
+    "id": 1,
+    "name": "Retro Sunglasses",
+    "price": 225,
+    "images": [
+      "/images/Accessories/Retro-sunglasses_03.webp"
+    ],
+    "category": "Accessories",
+    "description": "These Retro Sunglasses offer a vintage-inspired look with modern protection. Perfect for adding a stylish edge to any outfit."
+  },
+  {
+    "id": 2,
+    "name": "Miley Triangle Hair Scarf",
+    "price": 22,
+    "images": [
+      "/images/Accessories/scrf1.webp"
+    ],
+    "category": "Accessories",
+    "isTrending": true,
+    "description": "The Miley Triangle Hair Scarf is a versatile accessory that can be styled in multiple ways. Made from soft, breathable fabric."
+  },
+  {
+    "id": 3,
+    "name": "Red Hair Scarf",
+    "price": 21,
+    "images": [
+      "/images/Accessories/scrf2.webp"
+    ],
+    "category": "Accessories",
+    "isTrending": true,
+    "description": "The Red Triangle Hair Scarf is a versatile accessory that can be styled in multiple ways. Made from soft, breathable fabric."
+  },
+  {
+    "id": 4,
+    "name": "Vibe Sunglasses",
+    "price": 125,
+    "images": [
+      "/images/Accessories/sunglasses2.webp"
+    ],
+    "category": "Accessories",
+    "description": "These Vibe Sunglasses offer a vintage-inspired look with modern protection. Perfect for adding a stylish edge to any outfit."
+  },
+  {
+    "id": 5,
+    "name": "Ultimate Crop Bandeau Tops",
+    "price": 22,
+    "images": [
+      "/images/woman/ultimate-crop-bandeau-tops_01.webp",
+      "/images/woman/ultimate-crop-bandeau-tops_black_01.webp",
+      "/images/woman/ultimate-crop-bandeau-tops_black_02.webp"
+    ],
+    "category": "Woman",
+    "isTrending": true,
+    "description": "Ultimate Crop Bandeau Tops are ideal for layering or wearing on their own. Made with soft, stretchy fabric for a comfortable fit.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Pieces Short Sleeve Sweater",
+    "price": 100,
+    "images": [
+      "/images/woman/Pieces-short-sleeve-sweater_01.webp",
+      "/images/woman/Pieces-short-sleeve-sweater_02.webp",
+      "/images/woman/Pieces-short-sleeve-sweater_03.webp"
+    ],
+    "category": "Woman",
+    "isTrending": true,
+    "description": "The Pieces Short Sleeve Sweater is a cozy and stylish addition to your wardrobe. Made from soft, breathable material.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Simona Ribbed Cardigan",
+    "price": 82,
+    "images": [
+      "/images/woman/Simona-Ribbed-Cardigan_05.webp",
+      "/images/woman/Simona-Ribbed-Cardigan_03.webp",
+      "/images/woman/SW1.webp"
+    ],
+    "category": "Woman",
+    "isTrending": true,
+    "description": "Simona Ribbed Cardigan is perfect for layering. Its ribbed texture and versatile design make it a must-have for any season.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Oversized T-shirt Multi-colors",
+    "price": 50,
+    "images": [
+      "/images/woman/image68.webp",
+      "/images/woman/image67.webp"
+    ],
+    "category": "Woman",
+    "isTrending": true,
+    "description": "The Oversized T-shirt in Multi-colors offers a relaxed fit and vibrant design. Ideal for casual and comfortable wear.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Classic Oversized Sweatshirt",
+    "price": 158,
+    "images": [
+      "/images/woman/classic-oversized-sweatshirt_01.webp",
+      "/images/woman/classic-oversized-sweatshirt_04.webp"
+    ],
+    "category": "Woman",
+    "description": "This Classic Oversized Sweatshirt is perfect for a cozy and relaxed look. Made from high-quality material for added comfort.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Straw Floppy Hat",
+    "price": 54,
+    "images": [
+      "/images/Accessories/straw-floppy-hat_03.webp"
+    ],
+    "category": "Accessories",
+    "description": "The Straw Floppy Hat is a stylish accessory for sunny days. It offers great sun protection while adding a chic touch to your outfit."
+  },
+  {
+    "id": 11,
+    "name": "Cat-Eye Glasses 20257",
+    "price": 86,
+    "images": [
+      "/images/Accessories/sunglasses1.webp"
+    ],
+    "category": "Accessories",
+    "description": "Cat-Eye Glasses 20257 feature a classic design with a modern twist. Perfect for adding a sophisticated touch to any look."
+  },
+  {
+    "id": 12,
+    "name": "Pride Sport Hip Pack",
+    "price": 39,
+    "images": [
+      "/images/Bags/Pride-Sport-Hip-Pack-_04.webp",
+      "/images/Bags/Pride-Sport-Hip-Pack-_03.jpg"
+    ],
+    "category": "Bags",
+    "description": "The Pride Sport Hip Pack is perfect for carrying essentials hands-free. Features a vibrant design and multiple compartments for convenience."
+  },
+  {
+    "id": 13,
+    "name": "Dance Bag Nylon",
+    "price": 18,
+    "images": [
+      "/images/Bags/p27-3_7e6d6ca6-5882-4c64-a166-577d894b0ac3.webp",
+      "/images/Bags/p27-1_1bcb95c6-a3da-4de5-b15e-ec08d4cb84b9.webp"
+    ],
+    "category": "Bags",
+    "description": "The Dance Bag Nylon is lightweight and durable, ideal for carrying dance gear or gym essentials. Features a sleek design and ample storage space."
+  },
+  {
+    "id": 14,
+    "name": "Black Bag Nylon",
+    "price": 28,
+    "images": [
+      "/images/Bags/crossbody-bag-with-wide-strap_01.webp",
+      "/images/Bags/crossbody-bag-with-wide-strap_02.webp"
+    ],
+    "category": "Bags",
+    "description": "The Crossbody Bag with Wide Strap is a chic and practical accessory for the modern individual. Its thoughtfully designed interior offers ample space for all your essentials, ensuring everything has its place. Crafted from premium materials, this bag promises durability while maintaining a stylish aesthetic."
+  },
+  {
+    "id": 15,
+    "name": "Dance Bag Nylon",
+    "price": 25,
+    "images": [
+      "/images/Bags/dance_nylon_01.webp",
+      "/images/Bags/dance_nylon_main.webp"
+    ],
+    "category": "Bags",
+    "description": "The Dance Bag Nylon is a lightweight and versatile bag perfect for carrying dance or gym essentials. Its durable nylon construction ensures longevity, while the thoughtful design provides ample storage space."
+  },
+  {
+    "id": 16,
+    "name": "Shopper Bag",
+    "price": 35,
+    "images": [
+      "/images/Bags/shopper-bag-with-laptop_02.webp",
+      "/images/Bags/shopper-bag-with-laptop_01.webp"
+    ],
+    "category": "Bags",
+    "description": "The Shopper Bag with Laptop is a stylish and practical bag perfect for carrying dance or gym essentials. Its durable nylon construction ensures longevity, while the thoughtful design provides ample storage space."
+  },
+  {
+    "id": 17,
+    "name": "Knit Dress In Green",
+    "price": 188,
+    "images": [
+      "/images/woman/knit-dress-in-green_03.webp"
+    ],
+    "category": "Woman",
+    "description": "The Knit Dress In Green is a versatile piece that can be dressed up or down. Made from soft, comfortable material.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Beanie In Chocolate Brown",
+    "price": 48,
+    "images": [
+      "/images/woman/beanie-in-chocolate-brown_03.webp",
+      "/images/woman/beanie-in-chocolate-brown_02.webp"
+    ],
+    "category": "Woman",
+    "description": "This Beanie In Chocolate Brown is perfect for keeping warm in style. Made from soft, stretchy fabric for a comfortable fit.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Relaxed Gym Tank Top",
+    "price": 148,
+    "images": [
+      "/images/woman/relaxed-gym-tank-top_01.webp",
+      "/images/woman/relaxed-gym-tank-top_04.webp"
+    ],
+    "category": "Woman",
+    "description": "The Relaxed Gym Tank Top is perfect for workouts and casual wear. Made from breathable fabric for maximum comfort.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Oversized Graphic Sweatshirt",
+    "price": 78,
+    "images": [
+      "/images/woman/image77.webp",
+      "/images/woman/image76.webp"
+    ],
+    "category": "Woman",
+    "description": "This Oversized Graphic Sweatshirt combines comfort and style. Perfect for a relaxed, casual look.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Hoodie In Blue",
+    "price": 198,
+    "images": [
+      "/images/man/hoodie-in-blue_01.webp",
+      "/images/man/hoodie-in-blue_02.webp"
+    ],
+    "category": "Man",
+    "description": "The Hoodie In Blue offers both style and comfort. Made from high-quality material for a cozy fit.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Jacket With Hood In Stone",
+    "price": 266,
+    "images": [
+      "/images/man/jacket-with-hood-in-stone_02.webp",
+      "/images/man/jacket-with-hood-in-stone_04.webp"
+    ],
+    "category": "Man",
+    "isTrending": true,
+    "description": "This Jacket With Hood In Stone provides excellent warmth and style. Ideal for layering during cooler weather.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Slim Formal Shirt In White",
+    "price": 198,
+    "images": [
+      "/images/man/slim-formal-shirt-in-white_01.webp",
+      "/images/man/slim-formal-shirt-in-white_01.webp"
+    ],
+    "category": "Man",
+    "description": "The Slim Formal Shirt In White is perfect for formal occasions. Made from high-quality fabric for a sharp, professional look.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Tapered Pants In Camel",
+    "price": 106,
+    "images": [
+      "/images/man/tapered-pants-in-camel-_01.webp",
+      "/images/man/tapered-pants-in-camel-_04.webp"
+    ],
+    "category": "Man",
+    "description": "Tapered Pants In Camel offer a modern fit and stylish design. Perfect for both casual and formal wear.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Sleeve Flower Print Revere",
+    "price": 52,
+    "images": [
+      "/images/man/sleeve-flower-print-revere_02.webp"
+    ],
+    "category": "Man",
+    "description": "The Sleeve Flower Print Revere shirt features a unique floral design. Ideal for adding a touch of style to your wardrobe.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Color Block Bucket Hat",
+    "price": 35,
+    "images": [
+      "/images/man/Color-block-bucket-hat_03.webp",
+      "/images/man/Color-block-bucket-hat_04.webp"
+    ],
+    "category": "Man",
+    "description": "This Color Block Bucket Hat is perfect for a trendy look. It offers great sun protection and a stylish design.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Cargo Pants With Front Pocket",
+    "price": 52,
+    "images": [
+      "/images/man/cargo-pants-with-front-pocket_04.webp",
+      "/images/man/cargo-pants-with-front-pocket_03.webp"
+    ],
+    "category": "Man",
+    "description": "Cargo Pants With Front Pocket are practical and stylish. Perfect for casual wear with plenty of storage space.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Butterfly Charm Hoop Earrings",
+    "price": 71,
+    "images": [
+      "/images/Jewelry/Butterfly-Charm-Hoop-Earring_03.webp",
+      "/images/Jewelry/Butterfly-Charm-Hoop-Earring_02.webp"
+    ],
+    "category": "Jewelry",
+    "isTrending": true,
+    "description": "Butterfly Charm Hoop Earrings add a whimsical touch to any outfit. Made with high-quality materials for lasting wear."
+  },
+  {
+    "id": 29,
+    "name": "Row Clear Cz Ring",
+    "price": 198,
+    "images": [
+      "/images/Jewelry/ROW-CLEAR-CZ-RING_03.webp",
+      "/images/Jewelry/ROW-CLEAR-CZ-RING_02.webp"
+    ],
+    "category": "Jewelry",
+    "description": "The Row Clear Cz Ring is a stunning piece of jewelry. Features sparkling cubic zirconia for a touch of elegance."
+  },
+  {
+    "id": 30,
+    "name": "Pin Clear Cz Ring",
+    "price": 71,
+    "images": [
+      "/images/Jewelry/PIN-CLEAR-CZ-RING_01.webp",
+      "/images/Jewelry/PIN-CLEAR-CZ-RING_02.webp"
+    ],
+    "category": "Jewelry",
+    "description": "Pin Clear Cz Ring is a stylish accessory. Made with high-quality materials and sparkling cubic zirconia."
+  },
+  {
+    "id": 31,
+    "name": "Gold Tone Clear Cz Ring",
+    "price": 106,
+    "images": [
+      "/images/Jewelry/GOLD-TONE-CLEAR-CZ_03.webp",
+      "/images/Jewelry/GOLD-TONE-CLEAR-CZ_04.webp"
+    ],
+    "category": "Jewelry",
+    "description": "The Gold Tone Clear Cz Ring adds a touch of luxury to any outfit. Features beautiful cubic zirconia set in gold-tone metal."
+  },
+  {
+    "id": 32,
+    "name": "Gold Tone Star & Moon Bracelet",
+    "price": 166,
+    "images": [
+      "/images/Jewelry/Diamante-Butterfly-Necklace_01.webp"
+    ],
+    "category": "Jewelry",
+    "description": "The Gold Tone Star & Moon Bracelet is a celestial-inspired piece. Perfect for adding a touch of elegance to your look."
+  },
+  {
+    "id": 33,
+    "name": "Clear Cz Floral Letter Necklace",
+    "price": 195,
+    "images": [
+      "/images/Jewelry/CLEAR-CZ-FLORAL-LETTER-NECKLACE_01.webp",
+      "/images/Jewelry/CLEAR-CZ-FLORAL-LETTER-NECKLACE_02.webp"
+    ],
+    "category": "Jewelry",
+    "description": "The Clear Cz Floral Letter Necklace is a personalized piece. Features sparkling cubic zirconia in a floral design."
+  },
+  {
+    "id": 34,
+    "name": "Adjustable Bowline Necklace",
+    "price": 86,
+    "images": [
+      "/images/Jewelry/ADJUSTABLE-BOWLINE-NECKLACE_01.webp"
+    ],
+    "category": "Jewelry",
+    "description": "The Adjustable Bowline Necklace is versatile and stylish. Can be worn at different lengths for a custom look."
+  },
+  {
+    "id": 35,
+    "name": "Denim Jacket Sun Bleached",
+    "price": 199,
+    "images": [
+      "/images/woman/Jacket-_-Sun-Bleached_01.webp",
+      "/images/woman/Jacket-_-Sun-Bleached_02.webp",
+      "/images/woman/Jacket-_-Sun-Bleached_03.webp"
+    ],
+    "isTrending": true,
+    "category": "Woman",
+    "description": "The Denim Jacket Sun Bleached offers a stylish and trendy look with its sun-bleached finish. Perfect for layering over casual outfits, this jacket is made from high-quality denim and features a comfortable fit. Ideal for adding a touch of edge to your wardrobe.",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Air Jordan 1 Mid SE",
+    "price": 225,
+    "images": [
+      "/shoes/air-jordan-1-mid-se.jpg"
+    ],
+    "category": "Footwear",
+    "description": "With its mid-top design and classic Jordan branding, it offers a blend of style and performance. The shoe features a combination of leather and synthetic upper for durability and support. It also includes a cushioned midsole and a rubber outsole for comfort and traction on and off the court. A stylish and super clean design, a must have indeed.",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Dunk Low",
+    "price": 219,
+    "images": [
+      "/shoes/dunk-low.jpg"
+    ],
+    "category": "Footwear",
+    "description": " The shoe features a low-cut silhouette and a retro design that is both stylish and timeless. The upper is made of high-quality leather and features a perforated toe box for breathability. Whether you're a basketball player or a sneaker collector, the Nike Dunk Low is a classic shoe that should be in your collection.",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Air Force 1 Mid '07",
+    "price": 159,
+    "images": [
+      "/shoes/air-force-1-mid-07.jpg"
+    ],
+    "category": "Footwear",
+    "description": "The mid-top design offers a supportive fit, while the padded collar and ankle strap provide cushioning and lockdown. The Air-Sole unit in the heel provides lightweight cushioning and impact protection, while the rubber outsole delivers durable traction. With its sleek and timeless design, the Air Force 1 Mid '07 is perfect for any casual occasion.",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Air Force 1 '07 LX",
+    "price": 219,
+    "images": [
+      "/shoes/air-force-1-07-lx.jpg"
+    ],
+    "category": "Footwear",
+    "description": "The Air Force 1 '07 LX is a classic Nike sneaker reimagined with a fresh pastel colorway. This low-top sneaker features a durable leather upper with tonal stitching and perforations on the toe box for enhanced breathability. Whether you're hitting the streets or just looking for a stylish sneaker to complete your outfit, the Air Force 1 '07 LX is a versatile choice that won't disappoint.",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Air Force 1 '07",
+    "price": 165,
+    "images": [
+      "/shoes/air-force-1-07.jpg"
+    ],
+    "category": "Footwear",
+    "description": "The Nike Air Force 1 '07 is a classic shoe that is designed for both style and comfort. The shoe features a low-top silhouette, a perforated toe box, and a padded collar for added comfort. The shoe is equipped with Nike Air technology in the sole, providing excellent cushioning and support for everyday wear. With its timeless design and versatile colorway options, the Air Force 1 '07 is a must-have addition to any sneaker collection.",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Zoom Fly 5",
+    "price": 249,
+    "images": [
+      "/shoes/zoom-fly-5.jpg"
+    ],
+    "category": "Footwear",
+    "description": "The Zoom Fly 5 is a running shoe designed to provide a combination of comfort and performance for runners. Its sleek and modern design is both stylish and functional, featuring a lightweight mesh upper for breathability and a responsive foam midsole for cushioning and energy return. The shoe also includes a full-length carbon fiber plate that provides stability and propulsion, helping runners to achieve a faster and smoother ride.",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Air Jordan 1 Mid",
+    "price": 225,
+    "images": [
+      "/shoes/air-jordan-1-mid.jpg"
+    ],
+    "category": "Footwear",
+    "description": "The Air Jordan 1 Mid is a classic sneaker that offers a blend of heritage style and modern comfort. The shoe is adorned with the iconic Nike Swoosh logo and the 'Air Jordan Wings' logo on the side. This versatile sneaker can be worn for both casual and athletic occasions and comes in a variety of colorways to match any personal style.",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Zoom Kobe 6 'Grinch'",
+    "price": 259,
+    "images": [
+      "/shoes/zoom-kobe-6-grinch.jpg"
+    ],
+    "category": "Footwear",
+    "description": "It was inspired by the character from the popular Christmas movie, 'How the Grinch Stole Christmas'. The shoe features a bright green upper.The shoe's low-cut design and lightweight construction make it ideal for quick, agile movements on the basketball court. Overall, the Zoom Kobe 6 'Grinch' is a stylish and high-performing basketball shoe that is sure to turn heads on and off the court.",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Air Force 1 High '07 ",
+    "price": 145,
+    "images": [
+      "/shoes/air-force-1-high-07.jpg"
+    ],
+    "category": "Footwear",
+    "description": "The Nike Air Force 1 High 07 is a classic and iconic sneaker that exudes timeless style and urban flair. With its high-top silhouette and premium materials, it offers a bold and confident look that never goes out of fashion. The shoe features a leather upper for durability and a padded collar for enhanced comfort and ankle support. The Air Force 1 High 07 showcases the signature Air cushioning technology in the midsole, providing responsive and cushioned steps for all-day comfort.",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Blazer Mid '77 By You",
+    "price": 209,
+    "images": [
+      "/shoes/blazer-mid-77-by-you.jpg"
+    ],
+    "category": "Footwear",
+    "description": "The Nike Blazer Mid '77 By You offers a retro look and feel to your shoe collection. Its classic design is inspired by the original 1977 Nike Blazer, and its vintage detailing gives it an old-school look. The Blazer Mid '77 By You is a versatile shoe that can be dressed up or down, making it a great addition to any wardrobe.",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Dunk High By You",
+    "price": 165,
+    "images": [
+      "/shoes/dunk-high-by-you.jpg"
+    ],
+    "category": "Footwear",
+    "description": "With a classic high-top silhouette, the Dunk High By You offers endless possibilities for color and material combinations, allowing you to express your personal style in a truly one-of-a-kind way. The sneaker features a durable leather and synthetic upper, a supportive ankle strap, and a cushioned midsole for all-day comfort. Whether you're looking for a bold statement piece or a subtle addition to your wardrobe, the Dunk High By You is the perfect canvas for your creativity.",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Air Force 1 Low",
+    "price": 130,
+    "images": [
+      "/shoes/air-force-1-low.jpg"
+    ],
+    "category": "Footwear",
+    "description": "The shoe features a simple and clean design with a low-cut silhouette, made with a leather upper and a rubber outsole for durability and traction. The Air Force 1 Low is known for its comfortable fit and versatility, making it a go-to shoe for casual wear. This particular model comes in a sleek white colorway, with the signature Nike Swoosh logo on the side. It's a good fit for every casual occasion",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Air Jordan 1 Retro High OG",
+    "price": 180,
+    "images": [
+      "/shoes/air-jordan-1-retro-high-og.jpg"
+    ],
+    "category": "Footwear",
+    "description": "The Air Jordan 1 Retro High OG is known for its comfortable fit, durability, and timeless design. The shoe features a leather upper and the iconic Nike swoosh on the side. The AJ1 has been worn by basketball legends and has also become a popular fashion choice, making it a must-have for sneaker enthusiasts and fashionistas alike.",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Air Force 1 LV8",
+    "price": 130,
+    "images": [
+      "/shoes/air-force-1-lv8.jpg"
+    ],
+    "category": "Footwear",
+    "description": "This sneaker boasts a low-cut silhouette for a streamlined look, while the perforations on the toe box provide breathability and comfort. The Air-Sole unit in the heel offers responsive cushioning, and the non-marking rubber outsole provides excellent traction and durability. With its iconic design and high-quality materials, the Air Force 1 LV8 is a timeless sneaker that is sure to elevate any outfit.",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Air Jordan 5 Retro",
+    "price": 180,
+    "images": [
+      "/shoes/air-jordan-5-retro.jpg"
+    ],
+    "category": "Footwear",
+    "description": "This shoe is designed with a mix of leather and synthetic materials on the upper, providing a durable and comfortable fit. The shoe features a lace-up closure system for a secure fit, and a padded collar and tongue for added support and cushioning. The midsole is made of foam and features a visible Air-Sole unit in the heel for added comfort and responsiveness. The outsole is made of rubber and features a herringbone pattern for increased traction on the court.",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Blazer Mid'77 Unlocked",
+    "price": 110,
+    "images": [
+      "/shoes/blazer-mid-77-unlocked.jpg"
+    ],
+    "category": "Footwear",
+    "description": "With a classic silhouette, this shoe features a high-quality leather upper and a rubber sole that provides superior traction and durability. You can choose from a wide range of colors and materials for the upper, tongue, heel tab, swoosh, and laces. The shoe also comes with a special message hidden under the insole, making it truly unique and personal. Whether you're hitting the streets or dressing up for a special occasion, the Blazer Mid'77 Unlocked By You is sure to turn heads and make a statement.",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ]
+  }
+]
